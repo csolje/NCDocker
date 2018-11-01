@@ -1,0 +1,7 @@
+.DS_Store
+*.zip
+*.pdf
+*.docx
+*.xlsx
+T-SQL/Zoomit
+Docker/windows/Docker_w_ini/SqlServer2016
